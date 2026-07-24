@@ -1,0 +1,16 @@
+pyproject.toml
+  h_00d3a946329f2f 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "35ae3f678b6f030485b5dc507bb29e71a781b8a5",
+  "prompts": {},
+  "humans": {
+    "h_00d3a946329f2f": {
+      "author": "mikeq <mikequan0425@foxmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
